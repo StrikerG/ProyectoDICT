@@ -1,0 +1,31 @@
+Hola	 Ciao	 Bonjour	Hallo	Hello
+Buenos dias	 Buongiorno	 Bonjour	Guten Morgen	Good morning
+Buenas tardes	 Buon pomeriggio	 Bonsoir	Guten Abend	Good evening
+Buenas noches	 Buonasera	 Bonsoir	Guten Abend	Good evening
+Hasta mañana	 A domani	A demain	Bis morgen	See you tomorrow
+Por favor	 Per favore	S'il vous plaît	Bitte	Please
+Muchas gracias	 Grazie mille	Merci beaucoup	Ich danke Ihnen vielmals	Thank you very much
+De nada	 Di niente	Il n'y a pas de quoi	Nichts zu danken	You are welcome
+Lo siento	 Mi dispiace	Je suis désolé	Es tut mir leid	I'm sorry
+Disculpa	 Scusa	Désolé	Entschuldigung	Sorry
+Hoy	 Oggi	Aujourd'hui	Heute	Today
+Mañana	 Domani	Demain	Morgen	Tomorrow
+Lunes	 Lunedì	Lundi	Montag	Monday
+Martes	 Martedì	mardi	Dienstag	Tuesday
+Miercoles	 Mercoledì	mercredi	Mittwoch	Wednesday
+Jueves	 Giovedì	jeudi	Donnerstag	Thursday
+Viernes	 Venerdì	le vendredi	Freitag	Friday
+Sabado	 Sabato	samedi	Samstag	Saturday
+Domingo	 Domenica	Dimanche	Sonntag	Sunday
+Enero	 Gennaio	Janvier	Januar	January
+Febrero	 Febbraio	Février	Februar	February
+Marzo	 Marzo	mars	März	March
+Abril	 Aprile	Avril	April	April
+Mayo	 Maggio	Mai	Mai	May
+Junio	 Giugno	Juin	Juni	June
+Julio	 Luglio	juillet	Juli	July
+Agosto	 Agosto	Août	August	August
+Septiembre	 Settembre	septembre	September	September
+Octubre	 Ottobre	Octobre	Oktober	October
+Noviembre	 Novembre	novembre	November	November
+Diciembre	 Dicembre	Décembre	Dezember	December
